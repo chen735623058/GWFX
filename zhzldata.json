@@ -1,0 +1,19 @@
+[{
+	"zhjkl":82.55,"zhslzl":[
+	{"zbname":"中电账户","value":"2133"},
+	{"zbname":"集团账户","value":"3124"},
+	{"zbname":"监控账户","value":"3123"},
+	{"zbname":"全部账户","value":"1231"}],"nyrstate":"isnian","dw":"wanyuan"
+},{
+	"zhjkl":72.55,"zhslzl":[
+		{"zbname":"中电账户","value":"213"},
+		{"zbname":"集团账户","value":"3124"},
+		{"zbname":"监控账户","value":"3123"},
+		{"zbname":"全部账户","value":"1231"}],"nyrstate":"isyue","dw":"wanyuan"
+},{
+	"zhjkl":52.55,"zhslzl":[
+		{"zbname":"中电账户","value":"213"},
+		{"zbname":"集团账户","value":"33234"},
+		{"zbname":"监控账户","value":"31223"},
+		{"zbname":"全部账户","value":"12314"}],"nyrstate":"isyue","dw":"yiyuan"
+}]

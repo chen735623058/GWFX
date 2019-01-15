@@ -1,0 +1,18 @@
+[
+	{"zbname":"银行借款","value":"10000000","zbid":"11","zbfl":"rzjg","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"委托借款","value":"10000000","zbid":"12","zbfl":"rzjg","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"信托借款","value":"10000000","zbid":"13","zbfl":"rzjg","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"债务融资","value":"10000000","zbid":"14","zbfl":"rzjg","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"融资租赁","value":"10000000","zbid":"15","zbfl":"rzjg","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"其他融资","value":"10000000","zbid":"16","zbfl":"rzjg","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"境内","value":"30000000","zbid":"11","zbfl":"jnjw","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"境外","value":"30000000","zbid":"12","zbfl":"jnjw","nyrstate":"isnian","dw":"wanyuan"},
+	{"zbname":"银行借款","value":"20000000","zbid":"11","zbfl":"rzjg","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"委托借款","value":"20000000","zbid":"12","zbfl":"rzjg","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"信托借款","value":"20000000","zbid":"13","zbfl":"rzjg","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"债务融资","value":"20000000","zbid":"14","zbfl":"rzjg","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"融资租赁","value":"20000000","zbid":"15","zbfl":"rzjg","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"其他融资","value":"20000000","zbid":"16","zbfl":"rzjg","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"境内","value":"20000000","zbid":"11","zbfl":"jnjw","nyrstate":"isyue","dw":"wanyuan"},
+	{"zbname":"境外","value":"20000000","zbid":"12","zbfl":"jnjw","nyrstate":"isyue","dw":"wanyuan"}
+]

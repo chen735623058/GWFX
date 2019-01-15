@@ -1,0 +1,47 @@
+.cy_chooser{
+	background-image: url("../img/chooser_cy.png");
+}
+.jr_chooser{
+	background-image: url("../img/chooser_jr.png");
+}
+.jw_chooser{
+	background-image: url("../img/chooser_jw.png");
+}
+.ws_chooser{
+	background-image: url("../img/chooser_ws.png");
+}
+.zb_chooser{
+	background-image: url("../img/chooser_zb.png");
+}
+.jt_chooser{
+	background-image: url("../img/chooser_jt.png");
+}
+
+.gwjt_chooser{
+	width: 64px;
+	height: 64px;
+	background-image: url("../img/chooser_jtcenter.png");
+	position: absolute;
+	top: 43px;
+	z-index: 20;
+	left: 43px;
+	cursor: pointer;
+}
+.gwjt_chooser:hover{
+	background-color: rgba(255, 220, 162, 0.2);
+}
+
+.gwjt_wxz_chooser{
+	width:  64px;
+	height: 64px;
+	background-image: url("../img/chooser_gwjt_wxz.png");
+	position: absolute;
+	top: 43px;
+	z-index: 20;
+	left: 43px;
+	cursor: pointer;
+}
+
+.gwjt_wxz_chooser:hover{
+	background-color: rgba(255, 220, 162, 0.2);
+}
